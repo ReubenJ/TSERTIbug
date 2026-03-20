@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.5"
+manifest_format = "2.0"
+project_hash = "797c5bea8e3a161897025e7ec9a3203b00b54993"
+
+[[deps.TSERTIbug]]
+path = "."
+uuid = "a3bfc6b7-9761-4b1e-a0ee-6583a0d2fa72"
+version = "0.1.0"
