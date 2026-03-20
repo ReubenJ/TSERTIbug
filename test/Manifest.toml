@@ -2,7 +2,7 @@
 
 julia_version = "1.12.5"
 manifest_format = "2.0"
-project_hash = "29bd487951add09374f6d9d7822ee5b4a7d98e38"
+project_hash = "2061a11cf23aaa406782d7e3bc342fee34e5492e"
 
 [[deps.ArgTools]]
 uuid = "0dad84c5-d112-42e6-8d28-ef12dabb789f"
@@ -172,15 +172,9 @@ version = "1.103.6"
 
 [[deps.TestSetExtensions]]
 deps = ["DeepDiffs", "Distributed", "Test"]
-git-tree-sha1 = "93ba99f7552b9bc6ace35cd65b692c57dc8ec8fa"
+git-tree-sha1 = "ccebd99935be339d2ad907589708ba1f0d62bab3"
 uuid = "98d24dd4-01ad-11ea-1b02-c9a08f80db04"
-version = "4.0.1"
-
-    [deps.TestSetExtensions.extensions]
-    TestSetExtensionsTestReportsExt = ["TestReports"]
-
-    [deps.TestSetExtensions.weakdeps]
-    TestReports = "dcd651b4-b50a-5b6b-8f22-87e9f253a252"
+version = "3.0.0"
 
 [[deps.UUIDs]]
 deps = ["Random", "SHA"]
