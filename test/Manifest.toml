@@ -172,9 +172,9 @@ version = "1.103.6"
 
 [[deps.TestSetExtensions]]
 deps = ["DeepDiffs", "Distributed", "Test"]
-git-tree-sha1 = "7ae8f76c366121fda6f5287589b29224a5fb6e6b"
+git-tree-sha1 = "93ba99f7552b9bc6ace35cd65b692c57dc8ec8fa"
 uuid = "98d24dd4-01ad-11ea-1b02-c9a08f80db04"
-version = "4.0.0"
+version = "4.0.1"
 
     [deps.TestSetExtensions.extensions]
     TestSetExtensionsTestReportsExt = ["TestReports"]
